@@ -98,7 +98,7 @@ Here's how the algorithm is applied in the code:
 
 ---
 
-## A* Algorithm
+# A* Algorithm
 
 **A* algorithm** is a widely used pathfinding algorithm that finds the shortest path between two nodes in a graph while considering the cost associated with moving from one node to another. A* algorithm is particularly efficient and effective due to its use of both actual cost and heuristic estimates to guide the search process.
 
